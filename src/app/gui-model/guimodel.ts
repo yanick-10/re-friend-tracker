@@ -128,7 +128,7 @@ export class GuiModel {
                         {
                             "id": "activitydate",
                             "type": "date",
-                            "name": "ActivityDate",
+                            "name": "Date",
                             "width": 2
                         },
                         {
@@ -179,7 +179,7 @@ export class GuiModel {
                         {
                             "id": "activitydate",
                             "type": "date",
-                            "name": "ActivityDate",
+                            "name": "Date",
                             "width": 2
                         },
                         {
